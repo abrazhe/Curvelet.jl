@@ -1,5 +1,5 @@
-Curvelet.jl - The 2D Curvlet Transformation
-==========================================
+Curvelet.jl - The 2D Curvlet Transform
+======================================
 Mark McCurry
 0.0.0, April 12th 2013
 
