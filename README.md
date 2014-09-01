@@ -15,9 +15,10 @@ Basic usage is as follows:
 ----------------------------------------
 require("src/Curvelet.jl")
 
-x = rand(128,128)
-X = Curvelet.curveletTransform(x)
-y = Curvelet.inverseCurveletTransform(X)
+`x = rand(128,128)`
+`X = Curvelet.curveletTransform(x)`
+`y = Curvelet.inverseCurveletTransform(X)`
+
 ----------------------------------------
 
 Restrictions
